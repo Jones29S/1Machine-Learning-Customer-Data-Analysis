@@ -1,0 +1,1 @@
+This project demonstrates how linear regression can be used to predict house prices using a structured dataset of residential properties. The analysis was conducted using Python for model training and evaluation. The goal was to understand which features most influence house prices and how accurately I can predict them.
